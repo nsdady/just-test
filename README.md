@@ -8,5 +8,5 @@ This is a sample test
 ### H3 syntax markup
 * first ul line
 * second ul line
-* third is a link 
+* third is a link to [GitHub](http://github.com)
 
